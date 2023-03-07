@@ -1,8 +1,16 @@
 {
   "banned_servers": [
     {
+      "id": 1053429329259929711,
+      "reason": "Testing."
+    },
+     {
+      "id": 1070116356030222428,
+      "reason": "Testing."
+    },
+    {
       "id": 1027223834350325852,
       "reason": "Tried to sell features of the bot and lock everything behind paywalls."
-    }
+    },
   ]
 }
